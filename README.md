@@ -1,2 +1,12 @@
-# Numerical analysis & Numerical-Methods
-> Numerical analysis, area of mathematics and computer science that creates, analyzes, and implements algorithms for obtaining numerical solutions to problems involving continuous variables. Such problems arise throughout the natural sciences, social sciences, engineering, medicine, and business. Since the mid 20th century, the growth in power and availability of digital computers has led to an increasing use of realistic mathematical models in science and engineering, and numerical analysis of increasing sophistication is needed to solve these more detailed models of the world. The formal academic area of numerical analysis ranges from quite theoretical mathematical studies to computer science issues.
+# Numerical Analysis
+ Numerical analysis implements algorithms for obtaining numerical solutions to problems involving continuous variables. Such problems arise throughout the natural sciences, social sciences, engineering, medicine, and business. 
+# Numerical Methods
+- Numerical methods of linear algebra to solve:
+    -  [Systems of linear equations](https://github.com/anafisa/Numerical-Methods/tree/master/Systems%20of%20linear%20equations) 
+   
+- Numerical methods of mathematical analysis to solve:
+     -  [Systems of nonlinea linear equations](https://github.com/anafisa/Numerical-Methods/tree/master/Systems%20of%20nonlinear%20equations)
+- Others numerical methods of mathematical analysis:
+    - [Interpolation methods](https://github.com/anafisa/Numerical-Methods/tree/master/Interpolation)
+    - [Approximation methods](https://github.com/anafisa/Numerical-Methods/tree/master/Approximation%20methods)
+    - [Numerical integration methods](https://github.com/anafisa/Numerical-Methods/tree/master/Numerical%20integration)
